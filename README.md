@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Harodde/frontendmentorProjectGit)
-- Live Site URL: [GitHub Pages](https://harodde.github.io/frontendmentorProjectGit/)
+- Solution URL: [GitHub](https://github.com/Harodde/FEM-blog-preview-card)
+- Live Site URL: [GitHub Pages](https://harodde.github.io/FEM-blog-preview-card/)
 
 ## My process
 
